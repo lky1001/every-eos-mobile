@@ -4,8 +4,9 @@ Decentralized exchange based on [eos.io](http://developers.eos.io/)
 
 ## Support Platform
 
-- Mobile website
-- Android, IOS
+- Mobile web
+- Android
+- IOS
 
 ## Concept
 
